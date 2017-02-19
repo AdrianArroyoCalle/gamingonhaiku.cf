@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myst on Gaming on Haiku</title>
+    <link>http://gamingonhaiku.cf/tags/myst/index.xml</link>
+    <description>Recent content in Myst on Gaming on Haiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2016-2017, Adrián Arroyo Calle</copyright>
+    <atom:link href="http://gamingonhaiku.cf/tags/myst/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ResidualVM (&#43; games)</title>
+      <link>http://gamingonhaiku.cf/2016/07/23/residualvm/</link>
+      <pubDate>Sat, 23 Jul 2016 09:00:01 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/07/23/residualvm/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.residualvm.org/&#34;&gt;&lt;strong&gt;ResidualVM&lt;/strong&gt;&lt;/a&gt; is an open source engine for 3D graphics adventures like Grim Fandango and Escape from Monkey Island. It was developed to run LucasArts adventures not supported in &lt;a href=&#34;http://gamingonhaiku.cf/2016/06/20/scummvm/&#34;&gt;ScummVM&lt;/a&gt; , like those developed with the GrimE engine. Both of them have a very similar GUI, though ScummVM has a far more support for 2D games than ResidualVM for 3D games (only a few are playable). You have to have an original copy of the game, as ResidualVM is only an engine, with no datafiles from the games. &lt;a href=&#34;http://www.residualvm.org/demos/&#34;&gt;Here are some demos of games&lt;/a&gt; that run with ResidualVM.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-142&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/ResidualVM.png&#34; alt=&#34;ResidualVM&#34; width=&#34;673&#34; height=&#34;456&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/ResidualVM.png 673w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/ResidualVM-300x203.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ResidualVM supports:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Grim Fandango (with patches to original bugs and a Grim Mouse mode)&lt;/li&gt;
+&lt;li&gt;Escape from Monkey Island&lt;/li&gt;
+&lt;li&gt;Myst 3 Exile&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Developers are still working to bring more games to ResidualVM.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-143&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/ResidualVM-Load.png&#34; alt=&#34;ResidualVM Load&#34; width=&#34;673&#34; height=&#34;456&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/ResidualVM-Load.png 673w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/ResidualVM-Load-300x203.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Like ScummVM, when you want to play a game just select the folder where game data files are. In Grim Fandango, for example, the folder where LAB files are. If you want to play Grim Fandango, use the patch, which can be downloaded &lt;a href=&#34;http://demos.residualvm.org/patches/gfupd101.exe&#34;&gt;from here&lt;/a&gt;. Put it in the same folder as LAB files are and ResidualVM will install it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-144&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Grim-Fandango.png&#34; alt=&#34;Grim Fandango&#34; width=&#34;703&#34; height=&#34;553&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Grim-Fandango.png 703w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Grim-Fandango-300x236.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To get better results, enable the software 3D renderer in the settings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-145&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Grim-Fandango-Salvador-Limones.png&#34; alt=&#34;Grim Fandango Salvador Limones&#34; width=&#34;703&#34; height=&#34;553&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Grim-Fandango-Salvador-Limones.png 703w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Grim-Fandango-Salvador-Limones-300x236.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Grim Fandango is one of the best graphical adventures ever made and recently Double Fine did a remake for PlayStation 4/PSVita/Windows/Mac/Linux/Android/iOS. The game puzzles are quite difficult but the plot is great.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-146&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Grim-Fandango-Minister-of-Death.png&#34; alt=&#34;Grim Fandango Minister of Death&#34; width=&#34;703&#34; height=&#34;553&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Grim-Fandango-Minister-of-Death.png 703w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Grim-Fandango-Minister-of-Death-300x236.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-residualvm-on-haiku&#34;&gt;Install ResidualVM on Haiku&lt;/h2&gt;
+
+&lt;p&gt;ResidualVM package is hosted on its website. &lt;a href=&#34;http://www.residualvm.org/downloads/release/0.2.1/residualvm_0.2.1-1-x86_gcc2.hpkg&#34;&gt;Download it&lt;/a&gt;. Then, double click the package and install it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

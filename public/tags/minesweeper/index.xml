@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minesweeper on Gaming on Haiku</title>
+    <link>http://gamingonhaiku.cf/tags/minesweeper/index.xml</link>
+    <description>Recent content in Minesweeper on Gaming on Haiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2016-2017, Adrián Arroyo Calle</copyright>
+    <atom:link href="http://gamingonhaiku.cf/tags/minesweeper/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BeMines</title>
+      <link>http://gamingonhaiku.cf/2016/05/23/bemines/</link>
+      <pubDate>Mon, 23 May 2016 11:33:52 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/05/23/bemines/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;BeMines&lt;/strong&gt; is a clone of the well-known Minesweeper for Windows. You must find the mines hidden in the grid. Left click in order to show a cell. If it&amp;#8217;s a mine you lose. Right click in order to put a flag. You must put flags where you think a mine is. How do I know if the cell I&amp;#8217;m going to click is a mine? There are numbers. These numbers show you how many mines are surrounding the cell. There&amp;#8217;s a hint button, you can click the middle button of your mouse and it will show you the cells but it will add 20 seconds to the timer.&lt;figure id=&#34;attachment_22&#34; style=&#34;width: 503px&#34; class=&#34;wp-caption alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;wp-image-22 size-full&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeMines.png&#34; alt=&#34;BeMines, a minesweeper for Haiku&#34; width=&#34;503&#34; height=&#34;363&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeMines.png 503w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeMines-300x217.png 300w&#34; sizes=&#34;(max-width: 503px) 85vw, 503px&#34; /&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;BeMines&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;BeMines was made by DarkWyrm, licensed under the MIT license and it has different themes.&lt;/p&gt;
+
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;BeMines is available in HaikuPorts official repo&lt;/p&gt;
+
+&lt;pre&gt;pkgman install bemines&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

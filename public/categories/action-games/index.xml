@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Action Games on Gaming on Haiku</title>
+    <link>http://gamingonhaiku.cf/categories/action-games/index.xml</link>
+    <description>Recent content in Action Games on Gaming on Haiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2016-2017, Adrián Arroyo Calle</copyright>
+    <atom:link href="http://gamingonhaiku.cf/categories/action-games/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diamond Girl</title>
+      <link>http://gamingonhaiku.cf/2016/07/16/diamond-girl/</link>
+      <pubDate>Sat, 16 Jul 2016 13:50:31 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/07/16/diamond-girl/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Diamond Girl&lt;/strong&gt; is a single player, puzzle/action game. Originally designed for BeOS by Jarko Nikkanen, now it&amp;#8217;s available for free on Haiku. In this game we must collect the required amount of diamonds. However, there are some dangers in the field and we must be careful (and quick!).&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-137&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl.png&#34; alt=&#34;DiamondGirl&#34; width=&#34;730&#34; height=&#34;543&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl.png 730w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-300x223.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Move the girl using the arrow keys. You can go wherever you want, unless there&amp;#8217;s a rock. Pay attention to your route, because the places where you have been before are marked as &lt;em&gt;digged&lt;/em&gt;, so rocks can now move through those tunnels. Be quick and rocks in dangerous places won&amp;#8217;t hit you.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-140&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-InGame.png&#34; alt=&#34;DiamondGirl InGame&#34; width=&#34;730&#34; height=&#34;543&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-InGame.png 730w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-InGame-300x223.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When a rock hits you, you die. The game has different levels of difficulty, with support for user made levels. These levels can be created with the in-game editor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-138&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-Editor.png&#34; alt=&#34;DiamondGirl Editor&#34; width=&#34;730&#34; height=&#34;543&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-Editor.png 730w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-Editor-300x223.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-diamond-girl-on-haiku&#34;&gt;Install Diamond Girl on Haiku&lt;/h2&gt;
+
+&lt;p&gt;Diamond Girl is available on the BeSly Software repo. Install it first.&lt;/p&gt;
+
+&lt;pre&gt;pkgman add-repo http://software.besly.de/repo&lt;/pre&gt;
+
+&lt;p&gt;Then install it on HaikuDepot or via pkgman&lt;/p&gt;
+
+&lt;pre&gt;pkgman install diamondgirl&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chocolate Doom</title>
+      <link>http://gamingonhaiku.cf/2016/07/10/chocolate-doom/</link>
+      <pubDate>Sun, 10 Jul 2016 09:00:51 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/07/10/chocolate-doom/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Chocolate Doom&lt;/strong&gt; is a source port of the original Doom. Its name is a joke refered to how people call original Dooms, &amp;#8220;Vanilla Doom&amp;#8221;. It wants to recreate the experience of the original Doom, so while other Doom engines try to fix bugs, Chocolate Doom tries to behave exactly as original Doom, bugs included. It is being developed by Simon &amp;#8220;Fraggle&amp;#8221; Howard. The game supports different games, which are saved in IWAD files:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;All DOOMs&lt;/li&gt;
+&lt;li&gt;Chex Quest&lt;/li&gt;
+&lt;li&gt;Hacx&lt;/li&gt;
+&lt;li&gt;Heretic (experimental)&lt;/li&gt;
+&lt;li&gt;Hexen (experimental)&lt;/li&gt;
+&lt;li&gt;Strife (experimental)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And thousands of user created levels. However, user created levels usually require an IWAD file.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-129&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png&#34; alt=&#34;Hacx&#34; width=&#34;661&#34; height=&#34;441&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png 661w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-300x200.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Doom IWAD files are under copyright, however &lt;a href=&#34;http://www.doomworld.com/classicdoom/info/shareware.php&#34;&gt;shareware versions&lt;/a&gt; exists. They doesn&amp;#8217;t allow you to play user created levels. There&amp;#8217;s a project called &lt;a href=&#34;https://freedoom.github.io&#34;&gt;Freedoom&lt;/a&gt; which is recreating the Doom IWAD files and allowing us to play fan made levels. &lt;a href=&#34;http://drnostromo.com/hacx/index.php&#34;&gt;Hacx&lt;/a&gt; is available for free in a website of one of its authors.&lt;/p&gt;
+
+&lt;p&gt;Move around using the arrow keys. Shoot with CTRL, use items with the Space bar. Strafe using ALT and run using SHIFT.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-130&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png&#34; alt=&#34;Hacx InGame&#34; width=&#34;679&#34; height=&#34;459&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png 679w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame-300x203.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chocolate Doom supports loading of user created levels. Just download the WAD file and have a copy of a Doom IWAD file. You can thousands of fan made levels in [&lt;strong&gt;Chocolate Doom&lt;/strong&gt; is a source port of the original Doom. Its name is a joke refered to how people call original Dooms, &amp;#8220;Vanilla Doom&amp;#8221;. It wants to recreate the experience of the original Doom, so while other Doom engines try to fix bugs, Chocolate Doom tries to behave exactly as original Doom, bugs included. It is being developed by Simon &amp;#8220;Fraggle&amp;#8221; Howard. The game supports different games, which are saved in IWAD files:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;All DOOMs&lt;/li&gt;
+&lt;li&gt;Chex Quest&lt;/li&gt;
+&lt;li&gt;Hacx&lt;/li&gt;
+&lt;li&gt;Heretic (experimental)&lt;/li&gt;
+&lt;li&gt;Hexen (experimental)&lt;/li&gt;
+&lt;li&gt;Strife (experimental)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And thousands of user created levels. However, user created levels usually require an IWAD file.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-129&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png&#34; alt=&#34;Hacx&#34; width=&#34;661&#34; height=&#34;441&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png 661w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-300x200.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Doom IWAD files are under copyright, however &lt;a href=&#34;http://www.doomworld.com/classicdoom/info/shareware.php&#34;&gt;shareware versions&lt;/a&gt; exists. They doesn&amp;#8217;t allow you to play user created levels. There&amp;#8217;s a project called &lt;a href=&#34;https://freedoom.github.io&#34;&gt;Freedoom&lt;/a&gt; which is recreating the Doom IWAD files and allowing us to play fan made levels. &lt;a href=&#34;http://drnostromo.com/hacx/index.php&#34;&gt;Hacx&lt;/a&gt; is available for free in a website of one of its authors.&lt;/p&gt;
+
+&lt;p&gt;Move around using the arrow keys. Shoot with CTRL, use items with the Space bar. Strafe using ALT and run using SHIFT.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-130&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png&#34; alt=&#34;Hacx InGame&#34; width=&#34;679&#34; height=&#34;459&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png 679w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame-300x203.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chocolate Doom supports loading of user created levels. Just download the WAD file and have a copy of a Doom IWAD file. You can thousands of fan made levels in]&lt;a href=&#34;https://www.doomworld.com&#34;&gt;4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to play a game you need to open the terminal and execute Chocolate Doom from there.&lt;/p&gt;
+
+&lt;pre&gt;chocolate-doom-x86 -iwad HACX.WAD&lt;/pre&gt;
+
+&lt;p&gt;If you want to execute a fan made level&lt;/p&gt;
+
+&lt;pre&gt;chocolate-doom-x86 -iwad DOOM.WAD -file SUPERLEVEL.WAD&lt;/pre&gt;
+
+&lt;h2 id=&#34;install-chocolate-doom-on-haiku&#34;&gt;Install Chocolate Doom on Haiku&lt;/h2&gt;
+
+&lt;p&gt;Chocolate Doom is available on HaikuPorts official repo, however not binaries are available yet.&lt;/p&gt;
+
+&lt;pre&gt;haikuporter --no-dependencies chocolate_doom_x86&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LBarrage</title>
+      <link>http://gamingonhaiku.cf/2016/06/10/lbarrage/</link>
+      <pubDate>Fri, 10 Jun 2016 12:00:41 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/06/10/lbarrage/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;LBarrage&lt;/strong&gt; is an action game. Your objective is to destroy tanks. You are in a tower defense and you can&amp;#8217;t move but you can launch your missiles and attack them. There are different types of tanks, each one with different properties of speed and score.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-79&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage-Title.png&#34; alt=&#34;LBarrage Title&#34; width=&#34;704&#34; height=&#34;573&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage-Title.png 704w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage-Title-300x244.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Left click to shoot and right click to recharge. This game is another one from &lt;a href=&#34;http://lgames.sf.net&#34;&gt;LGames&lt;/a&gt; and Michael Speck. It&amp;#8217;s under the GNU GPL v2 license.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-80&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage.png&#34; alt=&#34;LBarrage&#34; width=&#34;708&#34; height=&#34;573&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage.png 708w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage-300x243.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-lbarrage-on-haiku&#34;&gt;Install LBarrage on Haiku&lt;/h2&gt;
+
+&lt;p&gt;&lt;del&gt;Although LBarrage is on HaikuPorts official repo there isn&amp;#8217;t a binary package available to download. If you have the HaikuPorts ports tree installed with HaikuPorter you can build the package.&lt;/del&gt;&lt;/p&gt;
+
+&lt;pre&gt;haikuporter --no-dependencies --get-dependencies barrage
+
+&lt;/pre&gt;
+
+&lt;p&gt;Clasqm repo has binary packages for LBarrage. If you don&amp;#8217;t have clasqm repo installed, install it first:&lt;/p&gt;
+
+&lt;pre&gt;pkgman add-repo clasquin-johnson.co.za/michel/repo
+
+&lt;/pre&gt;
+
+&lt;p&gt;Then install the game&lt;/p&gt;
+
+&lt;pre&gt;pkgman install barrage&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

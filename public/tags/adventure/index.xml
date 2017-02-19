@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adventure on Gaming on Haiku</title>
+    <link>http://gamingonhaiku.cf/tags/adventure/index.xml</link>
+    <description>Recent content in Adventure on Gaming on Haiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2016-2017, Adrián Arroyo Calle</copyright>
+    <atom:link href="http://gamingonhaiku.cf/tags/adventure/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diamond Girl</title>
+      <link>http://gamingonhaiku.cf/2016/07/16/diamond-girl/</link>
+      <pubDate>Sat, 16 Jul 2016 13:50:31 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/07/16/diamond-girl/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Diamond Girl&lt;/strong&gt; is a single player, puzzle/action game. Originally designed for BeOS by Jarko Nikkanen, now it&amp;#8217;s available for free on Haiku. In this game we must collect the required amount of diamonds. However, there are some dangers in the field and we must be careful (and quick!).&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-137&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl.png&#34; alt=&#34;DiamondGirl&#34; width=&#34;730&#34; height=&#34;543&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl.png 730w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-300x223.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Move the girl using the arrow keys. You can go wherever you want, unless there&amp;#8217;s a rock. Pay attention to your route, because the places where you have been before are marked as &lt;em&gt;digged&lt;/em&gt;, so rocks can now move through those tunnels. Be quick and rocks in dangerous places won&amp;#8217;t hit you.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-140&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-InGame.png&#34; alt=&#34;DiamondGirl InGame&#34; width=&#34;730&#34; height=&#34;543&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-InGame.png 730w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-InGame-300x223.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When a rock hits you, you die. The game has different levels of difficulty, with support for user made levels. These levels can be created with the in-game editor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-138&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-Editor.png&#34; alt=&#34;DiamondGirl Editor&#34; width=&#34;730&#34; height=&#34;543&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-Editor.png 730w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-Editor-300x223.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-diamond-girl-on-haiku&#34;&gt;Install Diamond Girl on Haiku&lt;/h2&gt;
+
+&lt;p&gt;Diamond Girl is available on the BeSly Software repo. Install it first.&lt;/p&gt;
+
+&lt;pre&gt;pkgman add-repo http://software.besly.de/repo&lt;/pre&gt;
+
+&lt;p&gt;Then install it on HaikuDepot or via pkgman&lt;/p&gt;
+
+&lt;pre&gt;pkgman install diamondgirl&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Abbey of Crime Extensum (La Abadía del Crimen Extensum)</title>
+      <link>http://gamingonhaiku.cf/2016/06/22/abbey-crime-extensum-la-abadia-del-crimen-extensum/</link>
+      <pubDate>Wed, 22 Jun 2016 12:00:02 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/06/22/abbey-crime-extensum-la-abadia-del-crimen-extensum/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;The Abbey of Crime Extensum&lt;/strong&gt; is a remake of a classic Spanish videogame, &lt;em&gt;La Abadía del Crimen&lt;/em&gt;. It was developed by OperaSoft in 1987, inspired by &lt;em&gt;Il nome della rosa&lt;/em&gt; (The name of the rose) written by &lt;a href=&#34;https://en.wikipedia.org/wiki/Umberto_Eco&#34;&gt;Umberto Eco&lt;/a&gt;. It&amp;#8217;s a well-known example of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Golden_Era_of_Spanish_Software&#34;&gt;Golden Era of Spanish Software&lt;/a&gt;. Although its difficulty, it quickly became a cult videogame. The game features 3D isometric graphics in 8 bits machines.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-107&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum.png&#34; alt=&#34;AbadiaExtensum&#34; width=&#34;408&#34; height=&#34;354&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum.png 408w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-300x260.png 300w&#34; sizes=&#34;(max-width: 408px) 85vw, 408px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are &lt;em&gt;Guillermo de Occam&lt;/em&gt; (William of Occam, William of Baskerville in the book), a Franciscan friar and &lt;em&gt;Adso Melk&lt;/em&gt;, a novice who will follow Guillermo. A series of crimes had taken place in an Italian abbey and we must find the murderer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-108&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-1.png&#34; alt=&#34;AbadiaExtensum 1&#34; width=&#34;416&#34; height=&#34;363&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-1.png 416w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-1-300x262.png 300w&#34; sizes=&#34;(max-width: 416px) 85vw, 416px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The game is complex and difficult. For seven days we are like any other monk (liturgy, scriptorium,&amp;#8230;), and in our free time, solve the case. If we don&amp;#8217;t obey the abbot we lose score from the Obsequium (loyalty in Latin).&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-large wp-image-109&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2-1024x576.png&#34; alt=&#34;AbadiaExtensum 2&#34; width=&#34;840&#34; height=&#34;473&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2-1024x576.png 1024w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2-300x169.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2-768x432.png 768w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2-1200x675.png 1200w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2.png 1366w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;F1&lt;/strong&gt;: Toggle between full screen and window mode&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ESC&lt;/strong&gt;: Pause / menu&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enter&lt;/strong&gt;: Show map (when available)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Space&lt;/strong&gt;: See the next sentence in a conversation (only during cutscenes)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Right / Left&lt;/strong&gt;: Turn&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Up&lt;/strong&gt;: Walk&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Down&lt;/strong&gt;: Make Adso walk in the direction you are facing.&lt;/p&gt;
+
+&lt;h2 id=&#34;game-screen&#34;&gt;Game Screen&lt;/h2&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-110&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/pantalla-de-juego_en.png&#34; alt=&#34;pantalla-de-juego_en&#34; width=&#34;640&#34; height=&#34;418&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/pantalla-de-juego_en.png 640w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/pantalla-de-juego_en-300x196.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The elements on screen are the following:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;William of Occam&lt;/strong&gt;: the character we control.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adso of Melk&lt;/strong&gt;: William’s novice. At certain points of the game, we will have to guide him to solve some situations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inventory&lt;/strong&gt;: Objects the player currently has.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day&lt;/strong&gt;: The game takes place along seven days, the time frame we have to solve the investigation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hour&lt;/strong&gt;: Every day is divided into night, prime, terce, sext, none, vespers and compline.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Obsequium&lt;/strong&gt;: Gauge that will decrease every time we are reprimanded for breaking some rule. If the gauge empies, the game will be over.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oil&lt;/strong&gt;: Gauge that shows the amount of oil in the lamp. Every day at dawn the lamp will be discarded if used, and a new one must be obtained.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abbot&lt;/strong&gt;: Shows if the Abbot is sleeping in his cell.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Alternate camera&lt;/strong&gt;: When this icon appears, we can see what’s happening in other places of the abbey if we stand still for a while.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here&amp;#8217;s a map of the abbey:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-111&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/MapaAbadiaExtendido.jpg&#34; alt=&#34;MapaAbadiaExtendido&#34; width=&#34;324&#34; height=&#34;288&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/MapaAbadiaExtendido.jpg 324w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/MapaAbadiaExtendido-300x267.jpg 300w&#34; sizes=&#34;(max-width: 324px) 85vw, 324px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you may know, there&amp;#8217;s a film based on the book, which of course, follows the plot of the game.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone wp-image-112 size-medium&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/der_name_der_rose_le_nom_de_la_rose-561341919-large-223x300.jpg&#34; alt=&#34;der_name_der_rose_le_nom_de_la_rose-561341919-large&#34; width=&#34;223&#34; height=&#34;300&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/der_name_der_rose_le_nom_de_la_rose-561341919-large-223x300.jpg 223w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/der_name_der_rose_le_nom_de_la_rose-561341919-large.jpg 500w&#34; sizes=&#34;(max-width: 223px) 85vw, 223px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-8217-s-different-in-the-abbey-of-crime-extensum&#34;&gt;What&amp;#8217;s different in The Abbey of Crime Extensum?&lt;/h2&gt;
+
+&lt;p&gt;The Abbey of Crime Extensum is a remake, which changes some things like graphics (original graphics hadn&amp;#8217;t too much colors and were ugly), camera improvements, AI of the abbot has changed and other things. These improvements have been well accepted by old and new players, as you can on &lt;a href=&#34;http://store.steampowered.com/app/474030/&#34;&gt;its Steam page&lt;/a&gt;. The remake is available on Spanish and on English.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-large wp-image-113&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3-1024x576.png&#34; alt=&#34;AbadiaExtensum 3&#34; width=&#34;840&#34; height=&#34;473&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3-1024x576.png 1024w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3-300x169.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3-768x432.png 768w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3-1200x675.png 1200w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3.png 1366w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-the-abbey-of-crime-extensum-on-haiku&#34;&gt;Install The Abbey of Crime Extensum on Haiku&lt;/h2&gt;
+
+&lt;p&gt;The Abbey of Crime Extensum has been developed in Java. Haiku supports Java thanks to OpenJDK and hard work from Haiku developers. First you need to install OpenJDK.&lt;/p&gt;
+
+&lt;pre&gt;pkgman install openjdk_x86&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-large wp-image-114&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4-1024x576.png&#34; alt=&#34;AbadiaExtensum 4&#34; width=&#34;840&#34; height=&#34;473&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4-1024x576.png 1024w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4-300x169.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4-768x432.png 768w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4-1200x675.png 1200w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4.png 1366w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now download the game from the official site. It&amp;#8217;s a RAR file with a JAR inside. &lt;a href=&#34;http://abadiaextensum2-retroworks.rhcloud.com/en/the-game-2/&#34;&gt;Download from here&lt;/a&gt;. Extract the JAR file. Open it. It might not work. In that case, execute the JAR file from the terminal.&lt;/p&gt;
+
+&lt;pre&gt;java -jar AbadiaExtensum.jar&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ScummVM (&#43; games)</title>
+      <link>http://gamingonhaiku.cf/2016/06/20/scummvm/</link>
+      <pubDate>Mon, 20 Jun 2016 12:00:35 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/06/20/scummvm/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;ScummVM&lt;/strong&gt; is an emulator of graphical adventures. Initially designed to play SCUMM games from LucasArts, soon it gained support for more and more games. Now supports hundreds of old graphical adventures.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-102&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Scummvm.png&#34; alt=&#34;Scummvm&#34; width=&#34;696&#34; height=&#34;480&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Scummvm.png 696w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Scummvm-300x207.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To add a game just choose Add Game&amp;#8230; and select the folder where the game is. Then you can set some settings. Once you have configured the game you can play it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-103&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Maniac-Mansion.png&#34; alt=&#34;Maniac Mansion&#34; width=&#34;691&#34; height=&#34;472&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Maniac-Mansion.png 691w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Maniac-Mansion-300x205.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And that&amp;#8217;s it! Some of the greatest games you can play in ScummVM are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Maniac Mansion&lt;/li&gt;
+&lt;li&gt;The Secret of Monkey Island&lt;/li&gt;
+&lt;li&gt;The Day of the Tentacle&lt;/li&gt;
+&lt;li&gt;Loom&lt;/li&gt;
+&lt;li&gt;Full Throttle&lt;/li&gt;
+&lt;li&gt;Simon the Sorcerer&lt;/li&gt;
+&lt;li&gt;Gobliiins&lt;/li&gt;
+&lt;li&gt;King&amp;#8217;s Quest&lt;/li&gt;
+&lt;li&gt;Gold Rush&lt;/li&gt;
+&lt;li&gt;Discworld&lt;/li&gt;
+&lt;li&gt;Drascula&lt;/li&gt;
+&lt;li&gt;Myst&lt;/li&gt;
+&lt;li&gt;The Labyrinth of Time&lt;/li&gt;
+&lt;li&gt;Broken Sword&lt;/li&gt;
+&lt;li&gt;and many many more: &lt;a href=&#34;http://www.scummvm.org/compatibility/&#34;&gt;http://www.scummvm.org/compatibility/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;install-scummvm-on-haiku&#34;&gt;Install ScummVM on Haiku&lt;/h2&gt;
+
+&lt;p&gt;ScummVM is under the GNU GPL v2 license and uses SDL. It&amp;#8217;s available on HaikuPorts official repo.&lt;/p&gt;
+
+&lt;pre&gt;pkgman install scummvm&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-104&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Maniac-Mansion-2.png&#34; alt=&#34;Maniac Mansion 2&#34; width=&#34;691&#34; height=&#34;471&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Maniac-Mansion-2.png 691w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Maniac-Mansion-2-300x204.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;where-can-i-find-games-for-scummvm&#34;&gt;Where can I find games for ScummVM?&lt;/h2&gt;
+
+&lt;p&gt;Games that run on ScummVM have copyright so you should buy them. Of course, many companies have disappeared and in some cases the actual copyright holder is unknown, other companies are still alive but their games can&amp;#8217;t be bought. These situations are called abandonware. There are many sites which offer abandonware games. Just google a bit. However, ScummVM offers freeware versions of some games here: &lt;a href=&#34;http://www.scummvm.org/games&#34;&gt;http://www.scummvm.org/games&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

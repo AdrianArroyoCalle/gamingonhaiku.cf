@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multiplayer on Gaming on Haiku</title>
+    <link>http://gamingonhaiku.cf/categories/multiplayer/index.xml</link>
+    <description>Recent content in Multiplayer on Gaming on Haiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2016-2017, Adrián Arroyo Calle</copyright>
+    <atom:link href="http://gamingonhaiku.cf/categories/multiplayer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Simutrans</title>
+      <link>http://gamingonhaiku.cf/2016/07/29/simutrans/</link>
+      <pubDate>Fri, 29 Jul 2016 15:15:47 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/07/29/simutrans/</guid>
+      <description>
+
+&lt;p&gt;Do you remember &lt;a href=&#34;http://gamingonhaiku.cf/2016/05/26/openttd/&#34;&gt;OpenTTD&lt;/a&gt;? &lt;a href=&#34;http://simutrans.com&#34;&gt;Simutrans&lt;/a&gt; is a similar game. It&amp;#8217;s a tycoon game and we need to make a lot of money. We have a transport company and we must build lines for buses, trains, planes, trucks and boats. Unlike OpenTTD, Simutrans isn&amp;#8217;t a clone, it&amp;#8217;s a game that evolves as users request. It was developed by Hajo, but now a team does the dev work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-150&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans.png&#34; alt=&#34;Simutrans&#34; width=&#34;754&#34; height=&#34;618&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans.png 754w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-300x246.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The game is managed using the mouse as usual in many tycoon games. I&amp;#8217;m going to tell you how to build your first line. Click on the Road button (the truck). Build a road. There are different types of roads, each one with a price and a maximum speed. The higher you pay, the fastest it is. Basic roads are already built between towns. However, we must build a little road to build the garage.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-151&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Road.png&#34; alt=&#34;Simutrans-Road&#34; width=&#34;792&#34; height=&#34;623&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Road.png 792w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Road-300x236.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Road-768x604.png 768w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Build the garage by clicking on an end of the road. Build also two passenger stations. Passenger stations can be built anywhere in the road.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-152&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Station.png&#34; alt=&#34;Simutrans-Station&#34; width=&#34;792&#34; height=&#34;623&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Station.png 792w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Station-300x236.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Station-768x604.png 768w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on the garage to buy a bus. Then, select the bus you want.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-153&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Bus.png&#34; alt=&#34;Simutrans-Bus&#34; width=&#34;792&#34; height=&#34;623&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Bus.png 792w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Bus-300x236.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Bus-768x604.png 768w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on &lt;em&gt;Enroute&lt;/em&gt; (Enrutar in the picture). Add stations to the route by clicking on the stations. Now you can start the bus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-154&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Route.png&#34; alt=&#34;Simutrans-Route&#34; width=&#34;792&#34; height=&#34;623&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Route.png 792w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Route-300x236.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-Route-768x604.png 768w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Congrats! Your first bus is doing its first job.&lt;/p&gt;
+
+&lt;p&gt;The game supports a great varity of vehicles, from trams to helicopters (there are even trolleybus). Excellent tools for working with lines, industries, high-density traffic. One thing to remind is that in Simutrans everything has a destination. If your lines doesn&amp;#8217;t connect the original place with the destination, nobody will be on your vehicles, they will be empty.&lt;/p&gt;
+
+&lt;h2 id=&#34;paksets&#34;&gt;Paksets&lt;/h2&gt;
+
+&lt;p&gt;I have lied to you. Simutrans &lt;del&gt;is only an engine&lt;/del&gt;(technically is more like a game because game logic is still in Simutrans). The game content is in paksets. There are different paksets with different artistic styles, rules and difficulties. For example, pak128. Its grids are 128 pixels wide, there are a lot of roads and it can be one of the most difficult paksets based on what money they give you for a successful job. The most common pakset is pak64, because it was the original and it&amp;#8217;s the default pakset. However, you can install a lot of paksets, but be careful, savegames doesn&amp;#8217;t work between paksets.&lt;figure id=&#34;attachment_156&#34; style=&#34;width: 792px&#34; class=&#34;wp-caption alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;size-full wp-image-156&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-pak32.png&#34; alt=&#34;This is Simutrans pak32, somewhere between LSD and your childhood dreams.&#34; width=&#34;792&#34; height=&#34;623&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-pak32.png 792w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-pak32-300x236.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Simutrans-pak32-768x604.png 768w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;This is Simutrans pak32, somewhere between LSD and your childhood dreams.&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Simutrans has multiplayer servers, join the server with the correct engine and pakset version and be ready to compete with people from all around the globe. The Simutrans community can be found in &lt;a href=&#34;http://forum.simutrans.com/&#34;&gt;their forums&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;install-simutrans-on-haiku&#34;&gt;Install Simutrans on Haiku&lt;/h2&gt;
+
+&lt;p&gt;Simutrans is available on the HaikuPorts ports tree (newer version) or in &lt;a href=&#34;http://simutrans.com&#34;&gt;Simutrans official page&lt;/a&gt;. HaikuPorts also has packages por pak64 and pak128.&lt;/p&gt;
+
+&lt;pre&gt;haikuporter simutrans_x86&lt;/pre&gt;
+
+&lt;p&gt;If you have downloaded the ZIP file from the official page you can install new paksets by running the bash script _get&lt;em&gt;pak.sh&lt;/em&gt;.&lt;figure id=&#34;attachment_155&#34; style=&#34;width: 840px&#34; class=&#34;wp-caption alignnone&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;wp-image-155 size-large&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Sahara-1024x739.jpg&#34; alt=&#34;Sahara&#34; width=&#34;840&#34; height=&#34;606&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/Sahara-1024x739.jpg 1024w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Sahara-300x217.jpg 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Sahara-768x554.jpg 768w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Sahara-1200x866.jpg 1200w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/Sahara.jpg 1248w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px&#34; /&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;This bus is placed in the frontier between Western Sahara, Mauritius and Argelia. Don&amp;#8217;t let your Simutrans buses to end there!&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chocolate Doom</title>
+      <link>http://gamingonhaiku.cf/2016/07/10/chocolate-doom/</link>
+      <pubDate>Sun, 10 Jul 2016 09:00:51 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/07/10/chocolate-doom/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Chocolate Doom&lt;/strong&gt; is a source port of the original Doom. Its name is a joke refered to how people call original Dooms, &amp;#8220;Vanilla Doom&amp;#8221;. It wants to recreate the experience of the original Doom, so while other Doom engines try to fix bugs, Chocolate Doom tries to behave exactly as original Doom, bugs included. It is being developed by Simon &amp;#8220;Fraggle&amp;#8221; Howard. The game supports different games, which are saved in IWAD files:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;All DOOMs&lt;/li&gt;
+&lt;li&gt;Chex Quest&lt;/li&gt;
+&lt;li&gt;Hacx&lt;/li&gt;
+&lt;li&gt;Heretic (experimental)&lt;/li&gt;
+&lt;li&gt;Hexen (experimental)&lt;/li&gt;
+&lt;li&gt;Strife (experimental)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And thousands of user created levels. However, user created levels usually require an IWAD file.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-129&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png&#34; alt=&#34;Hacx&#34; width=&#34;661&#34; height=&#34;441&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png 661w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-300x200.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Doom IWAD files are under copyright, however &lt;a href=&#34;http://www.doomworld.com/classicdoom/info/shareware.php&#34;&gt;shareware versions&lt;/a&gt; exists. They doesn&amp;#8217;t allow you to play user created levels. There&amp;#8217;s a project called &lt;a href=&#34;https://freedoom.github.io&#34;&gt;Freedoom&lt;/a&gt; which is recreating the Doom IWAD files and allowing us to play fan made levels. &lt;a href=&#34;http://drnostromo.com/hacx/index.php&#34;&gt;Hacx&lt;/a&gt; is available for free in a website of one of its authors.&lt;/p&gt;
+
+&lt;p&gt;Move around using the arrow keys. Shoot with CTRL, use items with the Space bar. Strafe using ALT and run using SHIFT.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-130&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png&#34; alt=&#34;Hacx InGame&#34; width=&#34;679&#34; height=&#34;459&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png 679w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame-300x203.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chocolate Doom supports loading of user created levels. Just download the WAD file and have a copy of a Doom IWAD file. You can thousands of fan made levels in [&lt;strong&gt;Chocolate Doom&lt;/strong&gt; is a source port of the original Doom. Its name is a joke refered to how people call original Dooms, &amp;#8220;Vanilla Doom&amp;#8221;. It wants to recreate the experience of the original Doom, so while other Doom engines try to fix bugs, Chocolate Doom tries to behave exactly as original Doom, bugs included. It is being developed by Simon &amp;#8220;Fraggle&amp;#8221; Howard. The game supports different games, which are saved in IWAD files:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;All DOOMs&lt;/li&gt;
+&lt;li&gt;Chex Quest&lt;/li&gt;
+&lt;li&gt;Hacx&lt;/li&gt;
+&lt;li&gt;Heretic (experimental)&lt;/li&gt;
+&lt;li&gt;Hexen (experimental)&lt;/li&gt;
+&lt;li&gt;Strife (experimental)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And thousands of user created levels. However, user created levels usually require an IWAD file.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-129&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png&#34; alt=&#34;Hacx&#34; width=&#34;661&#34; height=&#34;441&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png 661w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-300x200.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Doom IWAD files are under copyright, however &lt;a href=&#34;http://www.doomworld.com/classicdoom/info/shareware.php&#34;&gt;shareware versions&lt;/a&gt; exists. They doesn&amp;#8217;t allow you to play user created levels. There&amp;#8217;s a project called &lt;a href=&#34;https://freedoom.github.io&#34;&gt;Freedoom&lt;/a&gt; which is recreating the Doom IWAD files and allowing us to play fan made levels. &lt;a href=&#34;http://drnostromo.com/hacx/index.php&#34;&gt;Hacx&lt;/a&gt; is available for free in a website of one of its authors.&lt;/p&gt;
+
+&lt;p&gt;Move around using the arrow keys. Shoot with CTRL, use items with the Space bar. Strafe using ALT and run using SHIFT.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-130&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png&#34; alt=&#34;Hacx InGame&#34; width=&#34;679&#34; height=&#34;459&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png 679w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame-300x203.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chocolate Doom supports loading of user created levels. Just download the WAD file and have a copy of a Doom IWAD file. You can thousands of fan made levels in]&lt;a href=&#34;https://www.doomworld.com&#34;&gt;4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to play a game you need to open the terminal and execute Chocolate Doom from there.&lt;/p&gt;
+
+&lt;pre&gt;chocolate-doom-x86 -iwad HACX.WAD&lt;/pre&gt;
+
+&lt;p&gt;If you want to execute a fan made level&lt;/p&gt;
+
+&lt;pre&gt;chocolate-doom-x86 -iwad DOOM.WAD -file SUPERLEVEL.WAD&lt;/pre&gt;
+
+&lt;h2 id=&#34;install-chocolate-doom-on-haiku&#34;&gt;Install Chocolate Doom on Haiku&lt;/h2&gt;
+
+&lt;p&gt;Chocolate Doom is available on HaikuPorts official repo, however not binaries are available yet.&lt;/p&gt;
+
+&lt;pre&gt;haikuporter --no-dependencies chocolate_doom_x86&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LBreakout 2</title>
+      <link>http://gamingonhaiku.cf/2016/07/01/lbreakout/</link>
+      <pubDate>Fri, 01 Jul 2016 09:00:14 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/07/01/lbreakout/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;LBreakout 2&lt;/strong&gt; is a clone of Atari&amp;#8217;s Breakout made in SDL. With more than 50 levels it&amp;#8217;s a very challenging game. It is part of the &lt;a href=&#34;http://lgames.sourceforge.net/&#34;&gt;LGames&lt;/a&gt; suite of games (&lt;a href=&#34;http://gamingonhaiku.cf/2016/06/06/lmarbles/&#34;&gt;LMarbles&lt;/a&gt;, &lt;a href=&#34;http://gamingonhaiku.cf/2016/05/31/ltris/&#34;&gt;LTris&lt;/a&gt;, &lt;a href=&#34;http://gamingonhaiku.cf/2016/06/10/lbarrage/&#34;&gt;Barrage&lt;/a&gt;). The game won the &lt;em&gt;No Starch Press&lt;/em&gt; SDL contest.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-124&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/LBreakout2.png&#34; alt=&#34;LBreakout2&#34; width=&#34;694&#34; height=&#34;566&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/LBreakout2.png 694w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/LBreakout2-300x245.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You control a platform at the bottom of the game board. It&amp;#8217;s like a trampoline. When a ball (because there might be more than one ball) hits the platform, the ball jumps again. If the ball hits a brick, it disappears or becomes weaker. There are bonuses which randomly appear if you destroy bricks. More than one ball, sticky platform, a bigger platform (or smaller!). You pass the level once you have removed all the bricks on the screen. You lose if the ball goes to the bottom. In that case you lose a life. If you have lost all your lifes you can keep playing if you accept to lose your score.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-125&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/LBreakout2-In-Game.png&#34; alt=&#34;LBreakout2 In Game&#34; width=&#34;677&#34; height=&#34;536&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/LBreakout2-In-Game.png 677w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/LBreakout2-In-Game-300x238.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the arrow keys and the space bar. However, in my gameplays I&amp;#8217;ve achieved more precision using the mouse and the left click, which is also supported by default.&lt;/p&gt;
+
+&lt;p&gt;The game supports online multiplayer (LAN)(still experimental). However, the most interesting part of LBreakout 2 is the level editor. Create your own levels and share it with friends.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-126&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/LBreakout2-In-Game-2.png&#34; alt=&#34;LBreakout2 In Game 2&#34; width=&#34;683&#34; height=&#34;547&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/LBreakout2-In-Game-2.png 683w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/LBreakout2-In-Game-2-300x240.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-lbreakout-2-on-haiku&#34;&gt;Install LBreakout 2 on Haiku&lt;/h2&gt;
+
+&lt;p&gt;LBreakout 2 is available on HaikuPorts official repo. Search for it on HaikuDepot or install it using pkgman.&lt;/p&gt;
+
+&lt;pre&gt;pkgman install lbreakout2&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alien Blaster</title>
+      <link>http://gamingonhaiku.cf/2016/06/14/alien-blaster/</link>
+      <pubDate>Tue, 14 Jun 2016 12:00:05 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/06/14/alien-blaster/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Alien Blaster&lt;/strong&gt; is an arcade action game. You must keep going while you&amp;#8217;re destroying enemies&amp;#8217; spaceships. You have multiple weapons.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-90&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster.png&#34; alt=&#34;Alien Blaster&#34; width=&#34;711&#34; height=&#34;582&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster.png 711w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-300x246.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the arrow keys to move your spaceshi, CTRL key to fire, SHIFT key to change weapon. Select a special attack with Y and fire that attack with ALT. The games supports local multiplayer. Just bring a friend and choose their keys.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-91&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-In-Game.png&#34; alt=&#34;Alien Blaster In Game&#34; width=&#34;708&#34; height=&#34;578&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-In-Game.png 708w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-In-Game-300x245.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While you&amp;#8217;re playing you can collect green circles. They&amp;#8217;re health, weapons, and things that you might not want to miss.&lt;/p&gt;
+
+&lt;h2 id=&#34;install-alien-blaster-on-haiku&#34;&gt;Install Alien Blaster on Haiku&lt;/h2&gt;
+
+&lt;p&gt;Alien Blaster was developed by Paul Grathwol, Arne Hormann, Daniel Kuhn, Sonke Schwardt and it&amp;#8217;s under the GNU GPL v2 license. It&amp;#8217;s on HaikuPorts official repo, but no binary packages available yet.&lt;/p&gt;
+
+&lt;pre&gt;haikuporter --no-dependencies --get-dependencies alienblaster&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slime Volley</title>
+      <link>http://gamingonhaiku.cf/2016/06/02/slime-volley/</link>
+      <pubDate>Thu, 02 Jun 2016 12:00:13 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/06/02/slime-volley/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Slime Volley&lt;/strong&gt; is a multiplayer game inspired by Pong. As in Pong, we have to score points by making our opponent not to return the balls. However, Slime Volley is better because we have different physics. The ball goes down and our characters can go right and left and they can jump. There isn&amp;#8217;t any IA, you must play with a human. However, both local (same keyboard) and online connections are supported.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-63&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley.png&#34; alt=&#34;Slime Volley&#34; width=&#34;866&#34; height=&#34;671&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley.png 866w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-300x232.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-768x595.png 768w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The game has some funny modes. We can set the ball speed and how many balls are in the game. The game has two full themes, which give a &lt;em&gt;modern&lt;/em&gt; look and a &lt;em&gt;mushroom&lt;/em&gt; look.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-64&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-Menu.png&#34; alt=&#34;Slime Volley Menu&#34; width=&#34;866&#34; height=&#34;669&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-Menu.png 866w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-Menu-300x232.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-Menu-768x593.png 768w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The game screen is clean so we can stay focused in the balls.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-65&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-in-game.png&#34; alt=&#34;Slime Volley in game&#34; width=&#34;855&#34; height=&#34;676&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-in-game.png 855w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-in-game-300x237.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-in-game-768x607.png 768w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Do you like your character look? No? That isn&amp;#8217;t a problem. You can change character&amp;#8217;s skin. There are many, choose wisely.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-66&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-Characters.png&#34; alt=&#34;Slime Volley Characters&#34; width=&#34;841&#34; height=&#34;668&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-Characters.png 841w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-Characters-300x238.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/Slime-Volley-Characters-768x610.png 768w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-slime-volley-on-haiku&#34;&gt;Install Slime Volley on Haiku&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://slime.tuxfamily.org/&#34;&gt;Slime Volley&lt;/a&gt; was developed by VinDuv and McMic, hosted in the TuxFamily project (where you can find more themes). It&amp;#8217;s licensed under the GNU GPL v3. It&amp;#8217;s available on HaikuPorts official repos.&lt;/p&gt;
+
+&lt;pre&gt;pkgman install slimevolley&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Critical Mass</title>
+      <link>http://gamingonhaiku.cf/2016/05/27/critical-mass/</link>
+      <pubDate>Fri, 27 May 2016 06:59:17 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/05/27/critical-mass/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Critical Mass&lt;/strong&gt; is an interesting strategy game. You&amp;#8217;re the red team and you have red protons. You must destroy all blue atoms. Seems easy but it&amp;#8217;s quite hard to win if you enable a good IA.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-43&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Critical-Mass.png&#34; alt=&#34;Critical Mass&#34; width=&#34;502&#34; height=&#34;522&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Critical-Mass.png 502w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/Critical-Mass-289x300.png 289w&#34; sizes=&#34;(max-width: 502px) 85vw, 502px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every turn you click on a cell. You add a proton to that cell. The cell must be void or with another proton. When an atom reaches a critical mass, it explodes and it sends a proton to the cells near it. You now know how to conquer other atoms, reach critical mass near a blue atom and it&amp;#8217;ll be yours. What if an atom reachs critical mass and the proton it sends allows another atom to reach critical mass. Then you have a chain reaction and they&amp;#8217;re very common in Critical Mass. Use it wisely. You should keep the reaction under control unless you want to lose in a 10 seconds movement!&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-44&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Critical-Mass-Explosion.png&#34; alt=&#34;Critical Mass Explosion&#34; width=&#34;503&#34; height=&#34;510&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Critical-Mass-Explosion.png 503w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/Critical-Mass-Explosion-296x300.png 296w&#34; sizes=&#34;(max-width: 503px) 85vw, 503px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;How many protons is a &lt;em&gt;Critical Mass?&lt;/em&gt; It depends on the atom&amp;#8217;s position.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Corners: Two protons&lt;/li&gt;
+&lt;li&gt;Edge: Three protons&lt;/li&gt;
+&lt;li&gt;Center: Four protons&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Critical Mass has different levels of AI, from &lt;em&gt;Random&lt;/em&gt; to &lt;em&gt;Albert Einstein&lt;/em&gt;. Critical Mass also allows you to play the game with a friend because it supports local multiplayer. Just select &lt;em&gt;Human&lt;/em&gt; in the Blue menu.&lt;/p&gt;
+
+&lt;h2 id=&#34;install-critical-mass-on-haiku&#34;&gt;Install Critical Mass on Haiku&lt;/h2&gt;
+
+&lt;p&gt;Critical Mass was developed by Hamish Carr in 1998. It&amp;#8217;s availabe on &lt;a href=&#34;https://depot.haiku-os.org/#/pkg/criticalmass/haikuports/2/2/-/-/1/x86_gcc2?bcguid=bc262-RRRV&#34;&gt;HaikuPorts official repo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;pkgman install criticalmass&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenTTD</title>
+      <link>http://gamingonhaiku.cf/2016/05/26/openttd/</link>
+      <pubDate>Thu, 26 May 2016 13:55:38 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/05/26/openttd/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;OpenTTD&lt;/strong&gt; stands for Open Transport Tycoon Deluxe. It&amp;#8217;s a transport tycoon game, which means that you have a transport company and you have to manage it. It&amp;#8217;s one of the best open source games I&amp;#8217;ve ever played but let&amp;#8217;s start with a bit of history.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone wp-image-32 size-full&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/OpenTTD.png&#34; alt=&#34;OpenTTD&#34; width=&#34;706&#34; height=&#34;589&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/OpenTTD.png 706w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/OpenTTD-300x250.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Transport Tycoon came out in 1994, developed by Chris Sawyer. It became one of the most popular tycoon games ever. There was a second edition, called Transport Tycoon Deluxe. There was also a big mod, called TTDPatch which added features in a unofficial game. The game got older but there wasn&amp;#8217;t a new version. Also people wanted to run the game on Linux and other systems. As TT was programmed using assembler, a few people started programming their own engine in C++. It was OpenTTD. But it was only an engine, it meant that you still needed to have the original game files. This was solved with OpenMSX, OpenGFX and OpenSFX, free replacements of the original game files under free software licenses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-33&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/OpenTTD-Server.png&#34; alt=&#34;OpenTTD Server&#34; width=&#34;718&#34; height=&#34;579&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/OpenTTD-Server.png 718w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/OpenTTD-Server-300x242.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;OpenTTD runs on Haiku thanks to SDL and has features like multiplayer and mods (NewGRF).&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-play-openttd&#34;&gt;How to play OpenTTD?&lt;/h2&gt;
+
+&lt;p&gt;Start a new game and start building rails. Build two trains stations, be careful, they must be near a populated town. Create a garage and join it to the rails. Create a train, select the wagons and create a route. In the route manager you have to select the first station and then the destination. It&amp;#8217;s easy to start, difficult to leave! For full gameplay instructions, visit the &lt;a href=&#34;https://wiki.openttd.org/Main_Page&#34;&gt;OpenTTD wiki&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-34&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/OpenTTD-InGame.png&#34; alt=&#34;OpenTTD InGame&#34; width=&#34;716&#34; height=&#34;582&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/OpenTTD-InGame.png 716w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/OpenTTD-InGame-300x244.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-openttd-on-haiku&#34;&gt;Install OpenTTD on Haiku&lt;/h2&gt;
+
+&lt;p&gt;OpenTTD is available on the HaikuPorts official repo, but only available in the GCC4 ABI.&lt;/p&gt;
+
+&lt;pre&gt;pkgman install openttd&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

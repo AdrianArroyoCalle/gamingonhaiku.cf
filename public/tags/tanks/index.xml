@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanks on Gaming on Haiku</title>
+    <link>http://gamingonhaiku.cf/tags/tanks/index.xml</link>
+    <description>Recent content in Tanks on Gaming on Haiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2016-2017, Adrián Arroyo Calle</copyright>
+    <atom:link href="http://gamingonhaiku.cf/tags/tanks/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LBarrage</title>
+      <link>http://gamingonhaiku.cf/2016/06/10/lbarrage/</link>
+      <pubDate>Fri, 10 Jun 2016 12:00:41 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/06/10/lbarrage/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;LBarrage&lt;/strong&gt; is an action game. Your objective is to destroy tanks. You are in a tower defense and you can&amp;#8217;t move but you can launch your missiles and attack them. There are different types of tanks, each one with different properties of speed and score.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-79&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage-Title.png&#34; alt=&#34;LBarrage Title&#34; width=&#34;704&#34; height=&#34;573&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage-Title.png 704w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage-Title-300x244.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Left click to shoot and right click to recharge. This game is another one from &lt;a href=&#34;http://lgames.sf.net&#34;&gt;LGames&lt;/a&gt; and Michael Speck. It&amp;#8217;s under the GNU GPL v2 license.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-80&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage.png&#34; alt=&#34;LBarrage&#34; width=&#34;708&#34; height=&#34;573&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage.png 708w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/LBarrage-300x243.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-lbarrage-on-haiku&#34;&gt;Install LBarrage on Haiku&lt;/h2&gt;
+
+&lt;p&gt;&lt;del&gt;Although LBarrage is on HaikuPorts official repo there isn&amp;#8217;t a binary package available to download. If you have the HaikuPorts ports tree installed with HaikuPorter you can build the package.&lt;/del&gt;&lt;/p&gt;
+
+&lt;pre&gt;haikuporter --no-dependencies --get-dependencies barrage
+
+&lt;/pre&gt;
+
+&lt;p&gt;Clasqm repo has binary packages for LBarrage. If you don&amp;#8217;t have clasqm repo installed, install it first:&lt;/p&gt;
+
+&lt;pre&gt;pkgman add-repo clasquin-johnson.co.za/michel/repo
+
+&lt;/pre&gt;
+
+&lt;p&gt;Then install the game&lt;/p&gt;
+
+&lt;pre&gt;pkgman install barrage&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

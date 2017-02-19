@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lopan on Gaming on Haiku</title>
+    <link>http://gamingonhaiku.cf/tags/lopan/index.xml</link>
+    <description>Recent content in Lopan on Gaming on Haiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2016-2017, Adrián Arroyo Calle</copyright>
+    <atom:link href="http://gamingonhaiku.cf/tags/lopan/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lopan</title>
+      <link>http://gamingonhaiku.cf/2016/06/16/lopan/</link>
+      <pubDate>Thu, 16 Jun 2016 12:00:29 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/06/16/lopan/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Lopan&lt;/strong&gt; is a SDL implementation of the classical Chinese solitaire game Ma Jongg. Like other Mah Jongg implementations, you try to remove all the pieces. To remove pieces you must select a pair of pieces with the same drawing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-94&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Lopan.png&#34; alt=&#34;Lopan&#34; width=&#34;708&#34; height=&#34;486&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Lopan.png 708w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Lopan-300x206.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Press ESC to exit, RETURN to shuffle again, Arrow keys can be used as Undo/Redo, F1 changes the drawings of the pieces and F2 changes the background.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-95&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Lopan-Style.png&#34; alt=&#34;Lopan Style&#34; width=&#34;691&#34; height=&#34;479&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/Lopan-Style.png 691w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Lopan-Style-300x208.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-lopan-on-haiku&#34;&gt;Install Lopan on Haiku&lt;/h2&gt;
+
+&lt;p&gt;Lopan was developed by Dave Ashley and it&amp;#8217;s under the GNU GPL v2 license. It uses the SDL libraries. It&amp;#8217;s available on HaikuPorts official repo.&lt;/p&gt;
+
+&lt;pre&gt;pkgman install sdllopan&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

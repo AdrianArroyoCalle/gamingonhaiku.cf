@@ -1,0 +1,16 @@
+title = "Gaming on Haiku"
+baseurl = "http://gamingonhaiku.cf/"
+languageCode = "en-us"
+author = "Adrián Arroyo Calle"
+copyright = "Copyright (C) 2016-2017, Adrián Arroyo Calle"
+paginate = 5
+theme = "hugo-bootstrap"
+
+disqusShortname = "gamingonhaiku"
+googleAnalytics = "UA-20035972-28"
+
+[params.widgets]
+  recent_articles = true
+  categories = true
+  tags = true
+  tag_cloud = false

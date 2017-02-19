@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diamonds on Gaming on Haiku</title>
+    <link>http://gamingonhaiku.cf/tags/diamonds/index.xml</link>
+    <description>Recent content in Diamonds on Gaming on Haiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2016-2017, Adrián Arroyo Calle</copyright>
+    <atom:link href="http://gamingonhaiku.cf/tags/diamonds/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diamond Girl</title>
+      <link>http://gamingonhaiku.cf/2016/07/16/diamond-girl/</link>
+      <pubDate>Sat, 16 Jul 2016 13:50:31 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/07/16/diamond-girl/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Diamond Girl&lt;/strong&gt; is a single player, puzzle/action game. Originally designed for BeOS by Jarko Nikkanen, now it&amp;#8217;s available for free on Haiku. In this game we must collect the required amount of diamonds. However, there are some dangers in the field and we must be careful (and quick!).&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-137&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl.png&#34; alt=&#34;DiamondGirl&#34; width=&#34;730&#34; height=&#34;543&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl.png 730w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-300x223.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Move the girl using the arrow keys. You can go wherever you want, unless there&amp;#8217;s a rock. Pay attention to your route, because the places where you have been before are marked as &lt;em&gt;digged&lt;/em&gt;, so rocks can now move through those tunnels. Be quick and rocks in dangerous places won&amp;#8217;t hit you.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-140&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-InGame.png&#34; alt=&#34;DiamondGirl InGame&#34; width=&#34;730&#34; height=&#34;543&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-InGame.png 730w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-InGame-300x223.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When a rock hits you, you die. The game has different levels of difficulty, with support for user made levels. These levels can be created with the in-game editor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-138&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-Editor.png&#34; alt=&#34;DiamondGirl Editor&#34; width=&#34;730&#34; height=&#34;543&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-Editor.png 730w, http://gamingonhaiku.cf/wp-content/uploads/2016/07/DiamondGirl-Editor-300x223.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-diamond-girl-on-haiku&#34;&gt;Install Diamond Girl on Haiku&lt;/h2&gt;
+
+&lt;p&gt;Diamond Girl is available on the BeSly Software repo. Install it first.&lt;/p&gt;
+
+&lt;pre&gt;pkgman add-repo http://software.besly.de/repo&lt;/pre&gt;
+
+&lt;p&gt;Then install it on HaikuDepot or via pkgman&lt;/p&gt;
+
+&lt;pre&gt;pkgman install diamondgirl&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

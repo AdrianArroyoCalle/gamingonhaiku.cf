@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remake on Gaming on Haiku</title>
+    <link>http://gamingonhaiku.cf/tags/remake/index.xml</link>
+    <description>Recent content in Remake on Gaming on Haiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2016-2017, Adrián Arroyo Calle</copyright>
+    <atom:link href="http://gamingonhaiku.cf/tags/remake/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Abbey of Crime Extensum (La Abadía del Crimen Extensum)</title>
+      <link>http://gamingonhaiku.cf/2016/06/22/abbey-crime-extensum-la-abadia-del-crimen-extensum/</link>
+      <pubDate>Wed, 22 Jun 2016 12:00:02 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/06/22/abbey-crime-extensum-la-abadia-del-crimen-extensum/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;The Abbey of Crime Extensum&lt;/strong&gt; is a remake of a classic Spanish videogame, &lt;em&gt;La Abadía del Crimen&lt;/em&gt;. It was developed by OperaSoft in 1987, inspired by &lt;em&gt;Il nome della rosa&lt;/em&gt; (The name of the rose) written by &lt;a href=&#34;https://en.wikipedia.org/wiki/Umberto_Eco&#34;&gt;Umberto Eco&lt;/a&gt;. It&amp;#8217;s a well-known example of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Golden_Era_of_Spanish_Software&#34;&gt;Golden Era of Spanish Software&lt;/a&gt;. Although its difficulty, it quickly became a cult videogame. The game features 3D isometric graphics in 8 bits machines.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-107&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum.png&#34; alt=&#34;AbadiaExtensum&#34; width=&#34;408&#34; height=&#34;354&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum.png 408w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-300x260.png 300w&#34; sizes=&#34;(max-width: 408px) 85vw, 408px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are &lt;em&gt;Guillermo de Occam&lt;/em&gt; (William of Occam, William of Baskerville in the book), a Franciscan friar and &lt;em&gt;Adso Melk&lt;/em&gt;, a novice who will follow Guillermo. A series of crimes had taken place in an Italian abbey and we must find the murderer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-108&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-1.png&#34; alt=&#34;AbadiaExtensum 1&#34; width=&#34;416&#34; height=&#34;363&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-1.png 416w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-1-300x262.png 300w&#34; sizes=&#34;(max-width: 416px) 85vw, 416px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The game is complex and difficult. For seven days we are like any other monk (liturgy, scriptorium,&amp;#8230;), and in our free time, solve the case. If we don&amp;#8217;t obey the abbot we lose score from the Obsequium (loyalty in Latin).&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-large wp-image-109&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2-1024x576.png&#34; alt=&#34;AbadiaExtensum 2&#34; width=&#34;840&#34; height=&#34;473&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2-1024x576.png 1024w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2-300x169.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2-768x432.png 768w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2-1200x675.png 1200w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-2.png 1366w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;F1&lt;/strong&gt;: Toggle between full screen and window mode&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ESC&lt;/strong&gt;: Pause / menu&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enter&lt;/strong&gt;: Show map (when available)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Space&lt;/strong&gt;: See the next sentence in a conversation (only during cutscenes)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Right / Left&lt;/strong&gt;: Turn&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Up&lt;/strong&gt;: Walk&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Down&lt;/strong&gt;: Make Adso walk in the direction you are facing.&lt;/p&gt;
+
+&lt;h2 id=&#34;game-screen&#34;&gt;Game Screen&lt;/h2&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-110&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/pantalla-de-juego_en.png&#34; alt=&#34;pantalla-de-juego_en&#34; width=&#34;640&#34; height=&#34;418&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/pantalla-de-juego_en.png 640w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/pantalla-de-juego_en-300x196.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The elements on screen are the following:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;William of Occam&lt;/strong&gt;: the character we control.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adso of Melk&lt;/strong&gt;: William’s novice. At certain points of the game, we will have to guide him to solve some situations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inventory&lt;/strong&gt;: Objects the player currently has.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day&lt;/strong&gt;: The game takes place along seven days, the time frame we have to solve the investigation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hour&lt;/strong&gt;: Every day is divided into night, prime, terce, sext, none, vespers and compline.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Obsequium&lt;/strong&gt;: Gauge that will decrease every time we are reprimanded for breaking some rule. If the gauge empies, the game will be over.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oil&lt;/strong&gt;: Gauge that shows the amount of oil in the lamp. Every day at dawn the lamp will be discarded if used, and a new one must be obtained.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abbot&lt;/strong&gt;: Shows if the Abbot is sleeping in his cell.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Alternate camera&lt;/strong&gt;: When this icon appears, we can see what’s happening in other places of the abbey if we stand still for a while.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here&amp;#8217;s a map of the abbey:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-111&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/MapaAbadiaExtendido.jpg&#34; alt=&#34;MapaAbadiaExtendido&#34; width=&#34;324&#34; height=&#34;288&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/MapaAbadiaExtendido.jpg 324w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/MapaAbadiaExtendido-300x267.jpg 300w&#34; sizes=&#34;(max-width: 324px) 85vw, 324px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you may know, there&amp;#8217;s a film based on the book, which of course, follows the plot of the game.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone wp-image-112 size-medium&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/der_name_der_rose_le_nom_de_la_rose-561341919-large-223x300.jpg&#34; alt=&#34;der_name_der_rose_le_nom_de_la_rose-561341919-large&#34; width=&#34;223&#34; height=&#34;300&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/der_name_der_rose_le_nom_de_la_rose-561341919-large-223x300.jpg 223w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/der_name_der_rose_le_nom_de_la_rose-561341919-large.jpg 500w&#34; sizes=&#34;(max-width: 223px) 85vw, 223px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-8217-s-different-in-the-abbey-of-crime-extensum&#34;&gt;What&amp;#8217;s different in The Abbey of Crime Extensum?&lt;/h2&gt;
+
+&lt;p&gt;The Abbey of Crime Extensum is a remake, which changes some things like graphics (original graphics hadn&amp;#8217;t too much colors and were ugly), camera improvements, AI of the abbot has changed and other things. These improvements have been well accepted by old and new players, as you can on &lt;a href=&#34;http://store.steampowered.com/app/474030/&#34;&gt;its Steam page&lt;/a&gt;. The remake is available on Spanish and on English.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-large wp-image-113&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3-1024x576.png&#34; alt=&#34;AbadiaExtensum 3&#34; width=&#34;840&#34; height=&#34;473&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3-1024x576.png 1024w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3-300x169.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3-768x432.png 768w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3-1200x675.png 1200w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-3.png 1366w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-the-abbey-of-crime-extensum-on-haiku&#34;&gt;Install The Abbey of Crime Extensum on Haiku&lt;/h2&gt;
+
+&lt;p&gt;The Abbey of Crime Extensum has been developed in Java. Haiku supports Java thanks to OpenJDK and hard work from Haiku developers. First you need to install OpenJDK.&lt;/p&gt;
+
+&lt;pre&gt;pkgman install openjdk_x86&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-large wp-image-114&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4-1024x576.png&#34; alt=&#34;AbadiaExtensum 4&#34; width=&#34;840&#34; height=&#34;473&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4-1024x576.png 1024w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4-300x169.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4-768x432.png 768w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4-1200x675.png 1200w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/AbadiaExtensum-4.png 1366w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now download the game from the official site. It&amp;#8217;s a RAR file with a JAR inside. &lt;a href=&#34;http://abadiaextensum2-retroworks.rhcloud.com/en/the-game-2/&#34;&gt;Download from here&lt;/a&gt;. Extract the JAR file. Open it. It might not work. In that case, execute the JAR file from the terminal.&lt;/p&gt;
+
+&lt;pre&gt;java -jar AbadiaExtensum.jar&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maze of Galious</title>
+      <link>http://gamingonhaiku.cf/2016/06/08/maze-of-galious/</link>
+      <pubDate>Wed, 08 Jun 2016 12:00:43 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/06/08/maze-of-galious/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Maze of Galious&lt;/strong&gt; is an adventure game with lots of monsters and a huge map to explore. It was first designed by Konami to be played in MSX. This is an unofficial remake.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-73&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog-title.png&#34; alt=&#34;mog title&#34; width=&#34;672&#34; height=&#34;521&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog-title.png 672w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog-title-300x233.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www2.braingames.getput.com/mog/&#34;&gt;website of the game&lt;/a&gt; says :&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;MoG is a very addictive game where you have to kill thousands of enemies, collect items in order to obtain new powers and defeat some really great demons at the end of each level. The gameplay of MoG is not the boring linear one. In MoG you are free to go everywhere you want from the beginning of the game. You have to be very careful of the order in which you visit all the rooms in the HUGE map if you want to keep your character alive. The map is structured in a main map (called the &lt;em&gt;castle&lt;/em&gt;) and 10 submaps (called the &lt;em&gt;worlds&lt;/em&gt;). Initially you are in the castle and you have to find the keys that open the doors to go to each of the worlds. To complete the game you have to defeat the boss at the end of each one of the 10 worlds. You are free to revisit each world as often as you want in order to see if you have missed something. To defeat all 10 demons you control two characters: &lt;em&gt;Popolon&lt;/em&gt; and &lt;em&gt;Aphrodite&lt;/em&gt;. Each one has special abilities, i.e. Popolon has a greater ability to jump and Aphrodite is able to dive.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-74&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog.png&#34; alt=&#34;mog&#34; width=&#34;584&#34; height=&#34;461&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog.png 584w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog-300x237.png 300w&#34; sizes=&#34;(max-width: 584px) 85vw, 584px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the arrow keys to move and jump. Use the space bar to attack. The key to exit the game is F12. Maze of Galious has two characters, Popolon and Aphrodite, they must cooperate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-75&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog-ingame.png&#34; alt=&#34;mog ingame&#34; width=&#34;555&#34; height=&#34;450&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog-ingame.png 555w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog-ingame-300x243.png 300w&#34; sizes=&#34;(max-width: 555px) 85vw, 555px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The game supports different themes, which give the game a different sensation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-76&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog-theme.png&#34; alt=&#34;mog theme&#34; width=&#34;706&#34; height=&#34;492&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog-theme.png 706w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/mog-theme-300x209.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The remake was developed by Brain Games and it&amp;#8217;s under the GNU GPL v2 license. It uses the SDL library.&lt;/p&gt;
+
+&lt;h2 id=&#34;install-maze-of-galious-on-haiku&#34;&gt;Install Maze of Galious on Haiku&lt;/h2&gt;
+
+&lt;p&gt;MoG is available on HaikuPorts official repos.&lt;/p&gt;
+
+&lt;pre&gt;pkgman install mog&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

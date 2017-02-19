@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nintendo on Gaming on Haiku</title>
+    <link>http://gamingonhaiku.cf/tags/nintendo/index.xml</link>
+    <description>Recent content in Nintendo on Gaming on Haiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2016-2017, Adrián Arroyo Calle</copyright>
+    <atom:link href="http://gamingonhaiku.cf/tags/nintendo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SuperTux</title>
+      <link>http://gamingonhaiku.cf/2016/06/12/supertux/</link>
+      <pubDate>Sun, 12 Jun 2016 12:00:22 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/06/12/supertux/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;SuperTux&lt;/strong&gt; is a 2D platformer game, inspired by Super Mario. Here, the main character is Tux, Linux&amp;#8217;s pet, instead of Mario. You have to move (arrow keys), jump (space bar) and fire (CTRL key) in order to get to end of the map.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-84&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux.png&#34; alt=&#34;SuperTux&#34; width=&#34;707&#34; height=&#34;567&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux.png 707w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux-300x241.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The gameplay is very simular to Nintendo&amp;#8217;s Super Mario. There are &amp;#8220;Question boxes&amp;#8221; with coins and special items, like a snowball (to grow), keys or a flower, which enables you to fire using CTRL.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-85&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux-In-Game.png&#34; alt=&#34;SuperTux In Game&#34; width=&#34;714&#34; height=&#34;564&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux-In-Game.png 714w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux-In-Game-300x237.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are different types of enemies. All enemies can be destroyed if you jump on them, but some of them are tricky. &lt;em&gt;Mr. Ice Block&lt;/em&gt;, for example, will only be disabled and if you touch him, it will slide.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-86&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux-In-Game-2.png&#34; alt=&#34;SuperTux In Game 2&#34; width=&#34;691&#34; height=&#34;570&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux-In-Game-2.png 691w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux-In-Game-2-300x247.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The games has a lot of maps. But if you think you&amp;#8217;ll be bored after you have passed all the maps, then you&amp;#8217;re wrong. SuperTux comes with a Level Editor. You can design your own maps using blocks and enemies from the game. Then you can play and share your maps.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-87&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux-Level-Editor.png&#34; alt=&#34;SuperTux Level Editor&#34; width=&#34;718&#34; height=&#34;579&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux-Level-Editor.png 718w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/SuperTux-Level-Editor-300x242.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-supertux-on-haiku&#34;&gt;Install SuperTux on Haiku&lt;/h2&gt;
+
+&lt;p&gt;SuperTux is under the GNU GPLv2 license. It runs on Haiku thanks to the SDL libraries. It&amp;#8217;s available on HaikuPorts official repo, but no binary packages are available yet.&lt;/p&gt;
+
+&lt;pre&gt;haikuporter --get-dependencies --no-dependencies supertux&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

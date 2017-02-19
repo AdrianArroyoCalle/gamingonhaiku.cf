@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puzzle on Gaming on Haiku</title>
+    <link>http://gamingonhaiku.cf/tags/puzzle/index.xml</link>
+    <description>Recent content in Puzzle on Gaming on Haiku</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2016-2017, Adrián Arroyo Calle</copyright>
+    <atom:link href="http://gamingonhaiku.cf/tags/puzzle/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BeVexed</title>
+      <link>http://gamingonhaiku.cf/2016/05/29/bevexed/</link>
+      <pubDate>Sun, 29 May 2016 12:00:55 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/05/29/bevexed/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;BeVexed&lt;/strong&gt; is a puzzle game. The objective is to join the different boxes from the right grid in the left grid. You can only join two boxes if their edges have the same number.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-37&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeVexed-copia.png&#34; alt=&#34;BeVexed - copia&#34; width=&#34;638&#34; height=&#34;386&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeVexed-copia.png 638w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeVexed-copia-300x182.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The game is quite interesting, it is easy to understant but difficult to master. There&amp;#8217;s a panel on the left side which shows the times of previous plays. The game has different levels of difficulty by adding more rows to the grid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-40&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeVexed-InGame.png&#34; alt=&#34;BeVexed InGame&#34; width=&#34;615&#34; height=&#34;389&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeVexed-InGame.png 615w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeVexed-InGame-300x190.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;install-bevexed-on-haiku&#34;&gt;Install BeVexed on Haiku&lt;/h2&gt;
+
+&lt;p&gt;BeVexed was developed by DarkWyrm, it&amp;#8217;s under the MIT license and it&amp;#8217;s available on &lt;a href=&#34;https://depot.haiku-os.org/#/pkg/bevexed/haikuports/20141224/-/-/-/2/x86_gcc2?bcguid=bc310-IRSL&#34;&gt;HaikuPorts official repo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;pkgman install bevexed&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-53&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeVexed-Win.png&#34; alt=&#34;BeVexed-Win&#34; width=&#34;638&#34; height=&#34;392&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeVexed-Win.png 638w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/BeVexed-Win-300x184.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pipepanic</title>
+      <link>http://gamingonhaiku.cf/2016/05/25/pipepanic/</link>
+      <pubDate>Wed, 25 May 2016 07:00:03 +0000</pubDate>
+      
+      <guid>http://gamingonhaiku.cf/2016/05/25/pipepanic/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Pipepanic&lt;/strong&gt; is a puzzle game in which you have to connect the green start pipe with the red end pipe. The game gives you random pipes and you have to put them in the grid. The more pipes you utilise the greater you score. The pipe network will be filled once the time expires or you click the Fill button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;alignnone wp-image-25 size-full&#34; src=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Pipepanic.png&#34; alt=&#34;Pipepanic on Haiku OS&#34; width=&#34;713&#34; height=&#34;584&#34; srcset=&#34;http://gamingonhaiku.cf/wp-content/uploads/2016/05/Pipepanic.png 713w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/Pipepanic-300x246.png 300w&#34; sizes=&#34;(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;scoring&#34;&gt;Scoring&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;10 points for each pipe placed&lt;/li&gt;
+&lt;li&gt;-10 points for each pipe overwritten&lt;/li&gt;
+&lt;li&gt;5 points for each second remaining if you fill the network early&lt;/li&gt;
+&lt;li&gt;-10 points for each unconnected pipe found when filling&lt;/li&gt;
+&lt;li&gt;50 points for each filled pipe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;strategy&#34;&gt;Strategy&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Familiarise yourself with the pipe frequency.&lt;/li&gt;
+&lt;li&gt;Attempt to utilise every pipe offered to you overwriting as few as possible.&lt;/li&gt;
+&lt;li&gt;Build speedily and occupy as much of the board as you can.&lt;/li&gt;
+&lt;li&gt;Reserve part of the board for placing the corner pieces, creating a winding snake from one side to the other.&lt;/li&gt;
+&lt;li&gt;Filling early rewards a bonus&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;The game was developed by &lt;a href=&#34;http://www.users.waitrose.com/~thunor/pipepanic/index.html&#34;&gt;TheGreenKnight&lt;/a&gt; using SDL and it&amp;#8217;s under the GNU GPLv2 license. It&amp;#8217;s available on &lt;a href=&#34;https://depot.haiku-os.org/#/pkg/pipepanic/haikuports/0/1/3/-/3/x86_gcc2?bcguid=bc232-RVUK&#34;&gt;HaikuPorts official repo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;pkgman install pipepanic&lt;/pre&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
