@@ -1,6 +1,14 @@
 ## Build
 
+```
 hugo
+```
+
+## Host using Netlify
+
+```
+netlify deploy
+```
 
 ## Host using nginx
 
