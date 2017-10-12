@@ -16,11 +16,11 @@ tags:
 ---
 **Alien Blaster** is an arcade action game. You must keep going while you&#8217;re destroying enemies&#8217; spaceships. You have multiple weapons.
 
-<img class="alignnone size-full wp-image-90" src="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster.png" alt="Alien Blaster" width="711" height="582" srcset="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster.png 711w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-300x246.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+<img class="alignnone size-full wp-image-90" src="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster.png" alt="Alien Blaster" width="711" height="582" srcset="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster.png 711w, https://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-300x246.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
 
 Use the arrow keys to move your spaceshi, CTRL key to fire, SHIFT key to change weapon. Select a special attack with Y and fire that attack with ALT. The games supports local multiplayer. Just bring a friend and choose their keys.
 
-<img class="alignnone size-full wp-image-91" src="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-In-Game.png" alt="Alien Blaster In Game" width="708" height="578" srcset="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-In-Game.png 708w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-In-Game-300x245.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+<img class="alignnone size-full wp-image-91" src="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-In-Game.png" alt="Alien Blaster In Game" width="708" height="578" srcset="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-In-Game.png 708w, https://gamingonhaiku.cf/wp-content/uploads/2016/06/Alien-Blaster-In-Game-300x245.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
 
 While you&#8217;re playing you can collect green circles. They&#8217;re health, weapons, and things that you might not want to miss.
 

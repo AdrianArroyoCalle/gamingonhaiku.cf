@@ -27,13 +27,13 @@ tags:
 
 And thousands of user created levels. However, user created levels usually require an IWAD file.
 
-<img class="alignnone size-full wp-image-129" src="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png" alt="Hacx" width="661" height="441" srcset="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png 661w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-300x200.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+<img class="alignnone size-full wp-image-129" src="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png" alt="Hacx" width="661" height="441" srcset="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png 661w, https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-300x200.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
 
 Doom IWAD files are under copyright, however [shareware versions][1] exists. They doesn&#8217;t allow you to play user created levels. There&#8217;s a project called [Freedoom][2] which is recreating the Doom IWAD files and allowing us to play fan made levels. [Hacx][3] is available for free in a website of one of its authors.
 
 Move around using the arrow keys. Shoot with CTRL, use items with the Space bar. Strafe using ALT and run using SHIFT.
 
-<img class="alignnone size-full wp-image-130" src="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png" alt="Hacx InGame" width="679" height="459" srcset="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png 679w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame-300x203.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+<img class="alignnone size-full wp-image-130" src="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png" alt="Hacx InGame" width="679" height="459" srcset="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png 679w, https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame-300x203.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
 
 Chocolate Doom supports loading of user created levels. Just download the WAD file and have a copy of a Doom IWAD file. You can thousands of fan made levels in [**Chocolate Doom** is a source port of the original Doom. Its name is a joke refered to how people call original Dooms, &#8220;Vanilla Doom&#8221;. It wants to recreate the experience of the original Doom, so while other Doom engines try to fix bugs, Chocolate Doom tries to behave exactly as original Doom, bugs included. It is being developed by Simon &#8220;Fraggle&#8221; Howard. The game supports different games, which are saved in IWAD files:
 
@@ -46,13 +46,13 @@ Chocolate Doom supports loading of user created levels. Just download the WAD fi
 
 And thousands of user created levels. However, user created levels usually require an IWAD file.
 
-<img class="alignnone size-full wp-image-129" src="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png" alt="Hacx" width="661" height="441" srcset="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png 661w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-300x200.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+<img class="alignnone size-full wp-image-129" src="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png" alt="Hacx" width="661" height="441" srcset="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx.png 661w, https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-300x200.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
 
 Doom IWAD files are under copyright, however [shareware versions][1] exists. They doesn&#8217;t allow you to play user created levels. There&#8217;s a project called [Freedoom][2] which is recreating the Doom IWAD files and allowing us to play fan made levels. [Hacx][3] is available for free in a website of one of its authors.
 
 Move around using the arrow keys. Shoot with CTRL, use items with the Space bar. Strafe using ALT and run using SHIFT.
 
-<img class="alignnone size-full wp-image-130" src="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png" alt="Hacx InGame" width="679" height="459" srcset="http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png 679w, http://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame-300x203.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
+<img class="alignnone size-full wp-image-130" src="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png" alt="Hacx InGame" width="679" height="459" srcset="https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame.png 679w, https://gamingonhaiku.cf/wp-content/uploads/2016/06/Hacx-InGame-300x203.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" />
 
 Chocolate Doom supports loading of user created levels. Just download the WAD file and have a copy of a Doom IWAD file. You can thousands of fan made levels in][4] 
 

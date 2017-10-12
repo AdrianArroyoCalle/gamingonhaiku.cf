@@ -13,7 +13,7 @@ tags:
   - solitaire
 
 ---
-<img class="alignnone wp-image-15 size-large" src="http://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-2-1024x768.png" alt="SuperFreeCell" width="840" height="630" srcset="http://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-2.png 1024w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-2-300x225.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-2-768x576.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
+<img class="alignnone wp-image-15 size-large" src="https://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-2-1024x768.png" alt="SuperFreeCell" width="840" height="630" srcset="https://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-2.png 1024w, https://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-2-300x225.png 300w, https://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-2-768x576.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
 
 **SuperFreeCell** is a fantastic freecell game for Haiku. What can we say about freecell? Well, freecell has been a popular solitaire game because of its addition to different MS Windows versions since Windows 95. According to Wikipedia, the inventor of the game was Paul Alfille:
 
@@ -30,7 +30,7 @@ The freecell rules are simple.
   * You can move the cards if the card are you going to move has a different color than the card in the pile.
   * There are four cells, so called &#8220;freecells&#8221;, where you can put cards if you can&#8217;t make any movement.
 
-<img class="alignnone wp-image-14 size-large" src="http://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-1-1024x768.png" alt="SuperFreeCell-1" width="840" height="630" srcset="http://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-1.png 1024w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-1-300x225.png 300w, http://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-1-768x576.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
+<img class="alignnone wp-image-14 size-large" src="https://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-1-1024x768.png" alt="SuperFreeCell-1" width="840" height="630" srcset="https://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-1.png 1024w, https://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-1-300x225.png 300w, https://gamingonhaiku.cf/wp-content/uploads/2016/05/SuperFreeCell-1-768x576.png 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
 
 ## Install
 
