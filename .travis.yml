@@ -1,9 +1,11 @@
-language: go
-go:
- - 1.8.1
+language: minimal
+services:
+- docker
+env:
+  secure: "sA/0kNlILMCLQrTqx6E82U025DUUGTmsLVn50KyU+wEbKcErxQVTrQ/flDWBtNk8krbMM999ojTnPBYB4liGanaM9na8uShDceDnvd4Yn6Up75GlQnTy6UABiJ/pA5NeQZA86IhmWtX90AmlDV6dPw1YaWTSCn8fknsdlCcArj+wGHWcsN51x/VJG1PzipNC492fWxWPSYv2x8dvy/AdQymeuOHCYnLRQjOUJy7NxHELP3GR9lbcszapvO5cDJupZdszO1jBwy/lE8zsKd7zZ9495vhZtyxlOWa4Xga5z+AVEmhJZKkpYutPQIGjJZZmV3c4+8SHRe+31mKnORGsIU00MwChnNF/P71FrH7WUVTDAV7u7WdVlYzmrjYnqmpakitSxARaMfMRSGf+e8/yQZmZ538QRpEa+Hu+swH3XEBsFLjTD0tdv6sb20PHGAR1ckH33Fxu1BYVclyfNRHxBJ+rizoFbj70OLOfaEMbaFp8Dq7w+iM0qvEFXSIVkkbjMiBRtPtT5+V3pjvyWMg0sDAnVE8DctnJNGJi1awQYy+w74canqqgZK0RZLFgV0rqflxcZQRM451h38xi+Y6p5+oETF0zaBjAaB+8zlvlsHoDw/le815g8dVMe2ZHZT1M5oEu2mtJwoLEQbhbw5Nf67AbsMsUluPRSjLCbNZsMY4="
 install:
- - git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
- - go get -u -v github.com/spf13/hugo
+- docker-compose build
 script:
- - git submodule init
- - hugo
+- docker-compose run builder
+after_success:
+- docker-compose run publisher
